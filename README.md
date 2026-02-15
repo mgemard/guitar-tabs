@@ -2,5 +2,4 @@
 
 Guitar tabs of my own arrangements
 
-
-https://www.classtab.org/tabadd.htm
+This website has lot of tabs in ascii : https://www.classtab.org/tabadd.htm
